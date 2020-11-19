@@ -39,12 +39,12 @@ The following animation demonstrates the client's request for application functi
 
 Example Demo:
 
-![Employee Summary Image #1](./assets/10-OOP-homework-demo-1.png)
+![Employee Summary Image #1](./unsolved/assets/10-OOP-homework-demo-1.png)
 
-![Employee Summary Image #2](./assets/10-OOP-homework-demo-2.png)
+![Employee Summary Image #2](./unsolved/assets/10-OOP-homework-demo-2.png)
 
 Application Demo: 
-![Deployed Application Screenshot](./assets/employeeSummary.JPG)
+![Deployed Application Screenshot](./unsolved/assets/employeeSummary.JPG)
 
 Video Demo:
 [Video Demonstration of Application](https://drive.google.com/file/d/1MbYRkSwhlShWviCmvnTir-Gj_H88itM1/view)
